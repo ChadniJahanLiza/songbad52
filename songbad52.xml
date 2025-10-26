@@ -85,7 +85,7 @@
 <b:skin><![CDATA[
 /*
 -----------------------------------------------
-Template Name  : News-Bangla
+Template Name  : ePaper
 Author URL     : https://asadulislamasad.com
 ----------------------------------------------- */
 /* Variable definitions
@@ -1236,12 +1236,12 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
   <b:widget id='LinkList151' locked='false' title='Links Site' type='LinkList' version='1'>
     <b:widget-settings>
       <b:widget-setting name='sorting'>NONE</b:widget-setting>
-      <b:widget-setting name='text-1'>ব&#2495;জ&#2509;ঞ&#2494;পন</b:widget-setting>
+      <b:widget-setting name='text-1'>গোপনীয়তা নীতি</b:widget-setting>
       <b:widget-setting name='link-1'>https://www.asadulislamasad.com</b:widget-setting>
       <b:widget-setting name='text-0'>হ&#2507;ম</b:widget-setting>
       <b:widget-setting name='link-2'>https://www.asadulislamasad.com</b:widget-setting>
-      <b:widget-setting name='link-0'>https://www.asadulislamasad.com</b:widget-setting>
-      <b:widget-setting name='text-2'>য&#2507;গ&#2494;য&#2507;গ</b:widget-setting>
+      <b:widget-setting name='link-0'>#</b:widget-setting>
+      <b:widget-setting name='text-2'>যোগাযোগ</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
  <div class='widget-content' id='menu-top-menu'>
