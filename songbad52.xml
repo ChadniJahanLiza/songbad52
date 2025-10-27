@@ -3077,9 +3077,9 @@ Etiam at libero iaculis, mollis justo non, blandit augue. Vestibulum sit amet so
 </div>
 </b:includable>
   </b:widget>
-  <b:widget id='HTML5' locked='false' title='ফেইসবুকে আমরা' type='HTML'>
+  <b:widget id='HTML5' locked='false' title='ফেইসবুক' type='HTML'>
     <b:widget-settings>
-      <b:widget-setting name='content'><![CDATA[<center><div class="fb-page" data-href="https://www.facebook.com/sabyasachidewery" data-width="360" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div></center>]]></b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[<center><div class="fb-page" data-href="https://www.facebook.com/facebookpublicfigure" data-width="360" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div></center>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
