@@ -1661,7 +1661,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
 <b:section class='mag section' id='magstyle4' maxwidgets='1' showaddelement='yes'>
   <b:widget id='HTML920' locked='true' title='বাংলাদেশ' type='HTML' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='content'>ব&#2494;&#2434;ল&#2494;দ&#2503;শ</b:widget-setting>
+      <b:widget-setting name='content'>বাংলাদেশ</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
@@ -1679,7 +1679,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
 <b:section class='banner section' id='recent3' maxwidgets='1' showaddelement='yes'>
   <b:widget id='HTML106' locked='true' title='শিক্ষা' type='HTML' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='content'/>
+		<b:widget-setting name='content'>শিক্ষা</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
 <div class='mag-wrapper'>
