@@ -1551,7 +1551,7 @@ function recent_posts(json){var dw=&#39;&#39;;a=location.href;y=a.indexOf(&#39;?
       <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <div class='widget-content'>
-    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/> সব দ&#2503;খ&#2497;ন</a></div>
+    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/> সব দেখুন</a></div>
  <div class='clear'/>
 <script type='text/javascript'>var numposts = 3;var showpostthumbnails = true;var showcommentnum = true;var showpostdate = true;var showpostsummary = true;var numchars = 100;</script> 
 <script expr:src='&quot;/feeds/posts/default/-/&quot; + data:content + &quot;?published&amp;alt=json-in-script&amp;callback=labelthumbs&quot;' type='text/javascript'/>
@@ -1571,7 +1571,7 @@ function recent_posts(json){var dw=&#39;&#39;;a=location.href;y=a.indexOf(&#39;?
       <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <div class='widget-content'>
-    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/>সব দ&#2503;খ&#2497;ন</a></div>
+    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/> সব দেখুন</a></div>
  <div class='clear'/>
 <script type='text/javascript'>var numposts = 3;var showpostthumbnails = true;var showcommentnum = true;var showpostdate = true;var showpostsummary = true;var numchars = 100;</script> 
 <script expr:src='&quot;/feeds/posts/default/-/&quot; + data:content + &quot;?published&amp;alt=json-in-script&amp;callback=labelthumbs&quot;' type='text/javascript'/>
@@ -1666,7 +1666,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <div class='widget-content'>
-    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/>সব দ&#2503;খ&#2497;ন</a></div>
+    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/> সব দেখুন</a></div>
  <div class='clear'/>
 <script type='text/javascript'>var numposts = 6;var showpostthumbnails = true;var showcommentnum = true;var showpostdate = true;var showpostsummary = true;var numchars = 160;</script> 
 <script expr:src='&quot;/feeds/posts/default/-/&quot; + data:content + &quot;?published&amp;alt=json-in-script&amp;callback=labelthumbs&quot;' type='text/javascript'/>
@@ -1685,7 +1685,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
 <div class='mag-wrapper'>
   <div class='widget-content'>
 
-    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/>সব দ&#2503;খ&#2497;ন</a></div>
+    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/> সব দেখুন</a></div>
  <div class='clear'/>
 <script type='text/javascript'>var numposts = 4;var showpostthumbnails = true;var showcommentnum = true;var showpostdate = true;var showpostsummary = true;var numchars = 120;</script> 
 <script expr:src='&quot;/feeds/posts/default/-/&quot; + data:content + &quot;?published&amp;alt=json-in-script&amp;callback=labelthumbs&quot;' type='text/javascript'/>
@@ -1710,7 +1710,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <div class='widget-content'>
-    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/> সব দ&#2503;খ&#2497;ন</a></div>
+    <div class='title'><span/><a expr:href='&quot;/search/label/&quot; + data:content'><data:title/></a></div><div class='viewall'><a expr:href='&quot;/search/label/&quot; + data:content'><i aria-hidden='true' class='fa fa-list-ul'/> সব দেখুন</a></div>
  <div class='clear'/>
 <script type='text/javascript'>var numposts = 5;var showpostthumbnails = true;var showcommentnum = true;var showpostdate = true;var showpostsummary = true;var numchars = 170;</script> 
 <script expr:src='&quot;/feeds/posts/default/-/&quot; + data:content + &quot;?published&amp;alt=json-in-script&amp;callback=labelthumbs&quot;' type='text/javascript'/>
