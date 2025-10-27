@@ -402,7 +402,7 @@ ul#relpost_img_sum li a.relink {background-image:none;color:#525252; display:blo
     background: #fff url(https://4.bp.blogspot.com/-vKIlwnjC-hw/WyzmIUm-TEI/AAAAAAAAC2g/06c0JAHHQK8eBqHHZsqMo5dHyBjM8xFqwCLcBGAs/s1600/search.png) 96% 50% no-repeat;;border:0 none;height:35px;line-height:13px;font-size:12px;font-weight:600;color:#737373;padding:0 10px;opacity:0.9;transition:all 0.5s ease 0s;font-family:lato;border-right: 1px solid #ECECEC;float:left;}
 #search-form .search-button,#search-form .search-button:hover{transition:all 0.5s ease 0s;height:36px;width:36px;line-height:13px;background:#fff;border:0 none;float:right;cursor:pointer;outline:none;}
 <!--#search-form:hover{background:#fff url(https://2.bp.blogspot.com/-rRYRHBpaPKo/U8aAIU6MgdI/AAAAAAAAEZQ/8xL3jXykKQU/s1600/search.png) 90% 50% no-repeat;color:#888;} -->
-	#search-form:hover{background:#fff none no-repeat;}
+	#search-form:hover{background:#fff none no-repeat;color:#32aae1;}
 #search-form:focus{background:#fff;text-shadow:none!important;outline:none;color:#666;}
 #box {display:none}
 .search-text {font-size:13px;float:right;cursor:pointer;}
