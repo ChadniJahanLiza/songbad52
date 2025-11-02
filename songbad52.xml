@@ -1370,7 +1370,14 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
   <b:section class='header-right section' id='header-right' maxwidgets='1' showaddelement='yes'>
     <b:widget id='HTML112' locked='false' title='Put your ad code here' type='HTML' version='1'>
       <b:widget-settings>
-        <b:widget-setting name='content'/>
+        <b:widget-setting name='content'>
+  <![CDATA[
+    <a href='<data:blog.homepageUrl/>'>
+      <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit5UpzcfV7ScNiOFyxSQUi4eir7tOGurjh1OGNRF63nH3yjKnv3vzRxYhbM3qCCiCvL76S7l-c0kLWDYwPFl2SJyZP75UDeCsdb_HdkDFNtoLataV1rHegFsJMYKQ44E_Cu_Q1J5s5JsQBfcEkxDDZIZOsl0g48Y-17G4VbMpdS5J4Q1NXjLIbg83JyWE/s728/asadulislamasad.png' alt='Ad Banner' style='width:100%; height:auto; border:0;'/>
+    </a>
+  ]]>
+</b:widget-setting>
+
       </b:widget-settings>
       <b:includable id='main'>
   <!-- only display title if it's non-empty -->
