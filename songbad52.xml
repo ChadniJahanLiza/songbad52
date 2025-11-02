@@ -1288,13 +1288,13 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
 <b:section class='header section' id='header' maxwidgets='1' showaddelement='no'>
   <b:widget id='Header1' locked='true' title='songbad52 (Header)' type='Header' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='displayUrl'/>
-      <b:widget-setting name='displayHeight'>0</b:widget-setting>
-      <b:widget-setting name='sectionWidth'>257</b:widget-setting>
-      <b:widget-setting name='useImage'>false</b:widget-setting>
+      <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEieskC4lzheA2hHCzwlsdHi7H7N3Zi-uQF766khj4m_8LBFPfeyx-p3DI2FBaC4PPCI3DZ-HlKPhzKv-TDpkEt0YVbxLBoftF9Gfp5KA-aSl9qzqCoCXzEQzVu4paJ3HpxntcipPHN2LNJH28FY9ChACeNwLvyTFVmgzkAcEy0VfqczpI492TqZ0uEaAck=s240</b:widget-setting>
+      <b:widget-setting name='displayHeight'>93</b:widget-setting>
+      <b:widget-setting name='sectionWidth'>291</b:widget-setting>
+      <b:widget-setting name='useImage'>true</b:widget-setting>
       <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
-      <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
-      <b:widget-setting name='displayWidth'>0</b:widget-setting>
+      <b:widget-setting name='imagePlacement'>REPLACE</b:widget-setting>
+      <b:widget-setting name='displayWidth'>240</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <b:if cond='data:useImage'>
