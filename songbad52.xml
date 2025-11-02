@@ -2628,7 +2628,7 @@ Etiam at libero iaculis, mollis justo non, blandit augue. Vestibulum sit amet so
 
 <div id='related_posts'>
 <div class='relhead'>
-  <h4>এ সম&#2509;পর&#2509;ক&#2495;ত আরও খবর </h4>
+  <h4>এ সম্পর্কিত আরও খবর</h4>
 <div class='clear'/>
 <div class='relhead2sss'>
 <b:loop values='data:post.labels' var='label'>
