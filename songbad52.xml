@@ -1373,7 +1373,7 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
         <b:widget-setting name='content'>
   <![CDATA[
     <a href='<data:blog.homepageUrl/>'>
-      <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit5UpzcfV7ScNiOFyxSQUi4eir7tOGurjh1OGNRF63nH3yjKnv3vzRxYhbM3qCCiCvL76S7l-c0kLWDYwPFl2SJyZP75UDeCsdb_HdkDFNtoLataV1rHegFsJMYKQ44E_Cu_Q1J5s5JsQBfcEkxDDZIZOsl0g48Y-17G4VbMpdS5J4Q1NXjLIbg83JyWE/s728/asadulislamasad.png' alt='Ad Banner' style='width:100%; height:auto; border:0;'/>
+      <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8loGtqii7M7FsW-x_5eyqgnvxQR92ulGKP-jM5JGUQUmAog585hfoLZ0dcQ56Y73X9cWr5qmZix5YcgTHTxKGiyKjUpd1zy_gXMwfXWj2-_g4WG_8A5U9QhcRjOopCLqapxkQq8dIF5J1OMKssGoK2ipIZ9rIK2601z5rKAcnnX0dWpFS1Lwxk6kD-AN/s728/ads.gif' alt='Ad Banner' style='width:100%; height:auto; border:0;'/>
     </a>
   ]]>
 </b:widget-setting>
